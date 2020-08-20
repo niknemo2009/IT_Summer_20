@@ -62,9 +62,12 @@ private  BinaryTree<T> getSubTreeLeft(Node root){
 
 
     public static void main(String[] args) {
-        int[] arr = {1, 3, 5, 4, 4, 9};
+        int[] arr = {1, 2, 3, 4, 5, 6,7,8,9};
+        //5
+        //3 7
 //        BinaryTree binaryTree = new BinaryTree(arr);
   //      System.out.println(binaryTree.middleIndex());
+
     }
 
 
